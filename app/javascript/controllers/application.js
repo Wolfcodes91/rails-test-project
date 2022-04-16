@@ -1,4 +1,5 @@
 import { Application } from "@hotwired/stimulus"
+import {} from 'jquery-ujs'
 
 const application = Application.start()
 
